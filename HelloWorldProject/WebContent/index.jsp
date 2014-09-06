@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
-<title>This is a hello world project</title>
+<title>Hello Project.</title>
 </head>
 <body>
 
